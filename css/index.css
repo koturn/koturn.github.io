@@ -34,8 +34,8 @@ nav {
   background-color: rgba(255, 255, 255, 0.0);
 }
 #link-area p {
-  margin-top: 2px;
-  margin-bottom: 2px;
+  margin-top: 4px;
+  margin-bottom: 4px;
 }
 #link-area .link-center {
   margin-left: 2px;
@@ -51,20 +51,26 @@ nav {
   -moz-box-shadow: 1px 1px 3px #000;
   -webkit-box-shadow: 1px 1px 6px #000;
 }
-#github-link {
-  background-image: url(../img/github.png);
+#twitter-link {
+  background-image: url(../img/twitter.png);
+}
+#hatena-link {
+  background-image: url(../img/hatena.png);
 }
 #bitbucket-link {
   background-image: url(../img/bitbucket.png);
 }
-#twitter-link {
-  background-image: url(../img/twitter.png);
+#github-link {
+  background-image: url(../img/github.png);
+}
+#jsdoit-link {
+  background-image: url(../img/jsdoit.png);
+}
+#onedrive-link {
+  background-image: url(../img/onedrive.png);
 }
 #slideshare-link {
   background-image: url(../img/slideshare.png);
-}
-#hatena-link {
-  background-image: url(../img/hatena.png);
 }
 
 /* aboutme css */
